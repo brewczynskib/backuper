@@ -3,7 +3,11 @@
 ### Requirements
 
 To send files from your /* dir, copy all files from backuper to your flash-drive. Change *!FLASHDRIVENAME!* in autorun.sh file on yours.
+
+
 ![](autorun.png)
+
+
 Choose the sarch path in imps.sh .
 ![]()
 To simulate sending files you can use server.py from this repository. Just copy this file into your machine and in terminal type python3 server.py.
