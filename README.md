@@ -44,5 +44,5 @@ In directory where server.py is you should see new file 'fetched_d.zip which con
 
 ## Sources
 
-* *Brandon Rhodes, John Goerzen - Foundations of Python Network Programming, 3rd Edition
-* *The Linux Command Line: A Complete Introduction 1st Edition William E. Shotts Jr.
+* *Brandon Rhodes, John Goerzen - Foundations of Python Network Programming, 3rd Edition*
+* *The Linux Command Line: A Complete Introduction 1st Edition William E. Shotts Jr.*
