@@ -2,7 +2,7 @@
 
 ### Requirements
 
-To send files from your /* dir, copy all files from backuper to your flash-drive. Change *!FLASHDRIVENAME!* in autorun.sh file on yours.
+To send files from your /* dir, copy all files from backuper to your flash-drive. Change *!FLASHDRIVENAME!* in autorun.sh file on yours. Your flash-drive must be formatted with a native Linux filesystem like EXT4.
 
 
 ![](autorun.png)
