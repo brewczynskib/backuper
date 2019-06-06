@@ -35,8 +35,8 @@ In directory where server.py is you should see new file 'fetched_d.zip which con
 
 ## Built With
 
-* **Python 3.6.7
-* **Ubuntu 18.04
+* **Python 3.6.7**
+* **Ubuntu 18.04**
 
 ## Authors
 
